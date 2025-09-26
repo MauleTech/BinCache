@@ -1,1 +1,4 @@
-Code,RDPTarget,Gateway,etc
+Code,Name,RDPTarget,Gateway,RDPUser,LoadBalanceInfo,AlwaysPrompt,SeparateGateWayCreds,FullScreen,MultiMon,Width,Height,EnableDrives
+RHCO,RHC Office,RHCOCPA-RD1,rhcocpa.firmdesktop.com:7123,,,FALSE,FALSE,FALSE,TRUE,,,AllButC
+ABCL,ABC Law Firm,ABCL-RDS-01,abclaw.firmdesktop.com:8443,ABCLAW\,,TRUE,TRUE,FALSE,FALSE,1920,1080,D;E;F
+OSOL,OSOL,OSORD0.Net.local,osolaw.firmdesktop.com:7125,osolawfirm.com\,,TRUE,FALSE,TRUE,TRUE,,,AllButC
