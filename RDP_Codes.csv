@@ -1,4 +1,4 @@
 Code,Name,RDPTarget,Gateway,RDPUser,LoadBalanceInfo,AlwaysPrompt,SeparateGateWayCreds,FullScreen,MultiMon,Width,Height,EnableDrives
 RHCO,RHC Office,RHCOCPA-RD1,rhcocpa.firmdesktop.com:7123,,,FALSE,FALSE,FALSE,TRUE,,,AllButC
 MDSP,MDSP,Remote.modrall.net,Remote.modrall.net,modrall.net\,tsv://MS Terminal Services Plugin.1.RDN,FALSE,FALSE,TRUE,FALSE,1920,1080,
-OSOL,OSOL,OSORD0.Net.local,osolaw.firmdesktop.com:7125,osolawfirm.com\,,TRUE,FALSE,TRUE,TRUE,,,AllButC
+OSO,OSO,OSORD0.Net.local,osolaw.firmdesktop.com:7125,osolawfirm.com\,,TRUE,FALSE,TRUE,TRUE,,,AllButC
