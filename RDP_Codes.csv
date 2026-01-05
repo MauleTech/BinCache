@@ -2,3 +2,4 @@ Code,Name,RDPTarget,Gateway,RDPUser,LoadBalanceInfo,AlwaysPrompt,SeparateGateWay
 RHCO,RHC Office,RHCOCPA-RD1,rhcocpa.firmdesktop.com:7123,,,FALSE,FALSE,FALSE,TRUE,,,AllButC
 MDSP,MDSP,Remote.modrall.net,Remote.modrall.net,modrall.net\,tsv://MS Terminal Services Plugin.1.RDN,FALSE,FALSE,TRUE,FALSE,1920,1080,
 OSO,OSO,OSORD0.Net.local,osolaw.firmdesktop.com:7125,osolawfirm.com\,,TRUE,FALSE,TRUE,TRUE,,,AllButC
+HTSHP,HTSHP,hurley-gw.hurley.local,hurley.firmdesktop.com:7113,hurley.local\,,TRUE,FALSE,TRUE,TRUE,,,AllButC
