@@ -3,3 +3,4 @@ RHCO,RHC Office,RHCOCPA-RD1,rhcocpa.firmdesktop.com:7123,,,FALSE,FALSE,FALSE,TRU
 MDSP,MDSP,Remote.modrall.net,Remote.modrall.net,modrall.net\,tsv://MS Terminal Services Plugin.1.RDN,FALSE,FALSE,TRUE,FALSE,1920,1080,
 OSO,OSO,OSORD0.Net.local,osolaw.firmdesktop.com:7125,osolawfirm.com\,,TRUE,FALSE,TRUE,TRUE,,,AllButC
 HTSHP,HTSHP,hurley-gw.hurley.local,hurley.firmdesktop.com:7113,hurley.local\,,TRUE,FALSE,TRUE,TRUE,,,AllButC
+STB,STB,RDGW-4.SUTINFIRM.LOCAL,RD.sutinfirm.com,sutinfirm.com\,tsv://MS Terminal Services Plugin.1.STRDF,TRUE,FALSE,TRUE,TRUE,,,*
